@@ -1,8 +1,11 @@
-package com.henu.chatgpt;
+package com.henu;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author qin
+ */
 @SpringBootApplication
 public class ChatgptLitchiApplication {
 
